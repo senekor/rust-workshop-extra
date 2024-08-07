@@ -1,0 +1,9 @@
+import{o as n,c as l,k as r,q as h,s as k,B as a,e as s,aa as i}from"./modules/vue-D46aPLZD.js";import{I as c}from"./slidev/default-BpEuUnBy.js";import{u as o,f as p}from"./slidev/context-CCjqBm4k.js";import"./index-CqXZRW8C.js";import"./modules/shiki-CTgMSF1B.js";const d=s("pre",{class:"shiki shiki-themes dark-plus light-plus slidev-code",style:{"--shiki-dark":"#D4D4D4","--shiki-light":"#000000","--shiki-dark-bg":"#1E1E1E","--shiki-light-bg":"#FFFFFF"}},[s("code",{class:"language-yaml"},[s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#569CD6","--shiki-light":"#800000"}},"layout"),s("span",{style:{"--shiki-dark":"#D4D4D4","--shiki-light":"#000000"}},": "),s("span",{style:{"--shiki-dark":"#CE9178","--shiki-light":"#0000FF"}},"cover")]),i(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#569CD6","--shiki-light":"#800000"}},"class"),s("span",{style:{"--shiki-dark":"#D4D4D4","--shiki-light":"#000000"}},": "),s("span",{style:{"--shiki-dark":"#CE9178","--shiki-light":"#0000FF"}},"text-center")]),i(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#6A9955","--shiki-light":"#008000"}},"# [This Week in Rust](https://this-week-in-rust.org/)")]),i(`
+`),s("span",{class:"line"}),i(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#CE9178","--shiki-light":"#0000FF"}},"<div></div>")]),i(`
+`),s("span",{class:"line"}),i(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#CE9178","--shiki-light":"#0000FF"}},"The community-driven newsletter for Rustaceans")]),i(`
+`),s("span",{class:"line"}),i(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#CE9178","--shiki-light":"#0000FF"}},"<Nr />")])])],-1),g={__name:"3_news.md__slidev_17",setup(m){const{$slidev:u,$nav:_,$clicksContext:e,$clicks:F,$page:y,$renderContext:f,$frontmatter:t}=o();return e.setup(),(C,D)=>(n(),l(c,h(k(a(p)(a(t),16))),{default:r(()=>[d]),_:1},16))}},B=g;export{B as default};
